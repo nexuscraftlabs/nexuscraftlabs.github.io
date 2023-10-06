@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle: Our Expertise
+title: >
+  ## NexusCraft's Creative Services
+
+  NexusCraft Labs takes pride in its diverse team that brings together expertise from various domains, ensuring our clients benefit from the most comprehensive solutions.
+service:
+  - content: >
+      #### Web Development 
+      
+      Creating robust and scalable websites that are both aesthetically pleasing and functionally efficient, ensuring your digital presence stands out.
+    image: images/service/web.svg
+  - content: >
+      #### Mobile App Development 
+      
+      Developing user-centric mobile applications that provide seamless experiences across devices. Tailored solutions for both Android and iOS platforms.
+    image: images/service/mobile-app.svg
+  - content: >
+      #### Software Solutions 
+      
+      Delivering customized software solutions that optimize business processes, improve efficiency, and drive growth.
+    image: images/service/software.svg

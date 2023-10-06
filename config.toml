@@ -1,0 +1,77 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "NexusCraft Labs"
+# Main Menu
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Service"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Contact Us"
+url = "#contact"
+weight = 8
+
+# Sitemap Menu
+# [[menu.sitemap]]
+# name = "About me"
+# url = "about"
+# weight = 1
+[[menu.sitemap]]
+name = "Frequently Ask Question"
+url = "#"
+weight = 2
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "#"
+weight = 3
+[[menu.sitemap]]
+name = "Latest Article"
+url = "#"
+weight = 4
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "All rights reserved. Copyright © NexusCraft Labs 2023."
+footerLogo = "images/logo-dark.svg"
+# We're using formspree.io for form handling, paste your formspree url below
+fabformURL  = "https://fabform.io/f/JpTXRUa"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/logo.svg"
+
+[params.address]
+address = "Lucknow, Uttar Pradesh, India"
+email = "info@nexuscraftlabs.com"
+openingHours = "Open from 10am to 6pm (Mon-Fri)"
+phone = "+(91) 8932 061116"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+# [[params.social]]
+# icon = "fa-facebook-official"
+# url = "https://www.facebook.com/"
+# weight = 1
+# [[params.social]]
+# icon = "fa-linkedin-square"
+# url = "https://www.linkedin.com/"
+# weight = 2
+# [[params.social]]
+# icon = "fa-pinterest-square"
+# url = "https://www.pinterest.com/"
+# weight = 3
+# [[params.social]]
+# icon = "fa-twitter-square"
+# url = "https://twitter.com/"
+# weight = 4

@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## Our Clients Speak Volumes
+  
+testimonial:
+  - name: Alicia Mathews
+    comment: Working with NexusCraft Labs was a game-changer for our business. Their software solutions seamlessly integrated with our existing systems, boosting our efficiency tenfold.
+    time: Feb 10, 2023
+    star: 5
+  - name: Samuel Green
+    comment: NexusCraft's team displays an unmatched level of expertise. Their dedication to understanding our needs and crafting custom solutions made all the difference.
+    time: Sep 25, 2022
+    star: 4
+  - name: Lana Kowalski
+    comment: The diversity and skill set of the NexusCraft Labs team are truly commendable. While there were some initial hiccups, their responsive support ironed things out swiftly.
+    time: Dec 15, 2022
+    star: 4

@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: Welcome to NexusCraft Labs
+content: >
+  # Pioneering Software Solutions
+
+  At NexusCraft Labs, we embrace the power of diversity, enabling our team to collaborate, innovate, and expand their networks across a spectrum of expertise and domains.
+
+buttonName: Contact us
+buttonURL: contact
+image: images/hero/2960351.jpg
+videoThumb: images/hero/popup-thumb.png
+videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
