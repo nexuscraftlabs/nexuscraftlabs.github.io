@@ -43,7 +43,7 @@ copyright = "All rights reserved. Copyright © NexusCraft Labs 2023."
 footerLogo = "images/logo-dark.svg"
 # We're using formspree.io for form handling, paste your formspree url below
 fabformURL  = "https://fabform.io/f/JpTXRUa"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "G-9CGCK4XGB8"
 logo = "images/logo.svg"
 
 [params.address]
