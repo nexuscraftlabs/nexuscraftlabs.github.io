@@ -1,8 +1,11 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-paginate = 6
 theme = "portio"
 title = "NexusCraft Labs"
+
+[pagination]
+  pageSize = 6
+
 # Main Menu
 weight = 1
 [[menu.main]]
